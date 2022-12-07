@@ -1,2 +1,2 @@
-class PasswordManager
+class PasswordManager     
 end
